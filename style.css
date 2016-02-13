@@ -1,0 +1,25 @@
+.mk-league-product {
+    height: 70px;
+    width: 100%;
+    background: #C3EEFF;
+    display: block;
+    border-bottom: 4px solid white;
+}
+
+.mk-league-products {
+    overflow: auto;
+    height: 295px;
+}
+
+.mk-product-leagues-btn {
+    width: 100%;
+    height: 50px;
+    background: #E4E4E4;
+
+}
+.mk-col-third {
+    width: 262px;
+    float: left;
+    margin-right: 42px;
+}
+.mk-product-leagues-btn.active {background:blue;cursor:pointer;}
